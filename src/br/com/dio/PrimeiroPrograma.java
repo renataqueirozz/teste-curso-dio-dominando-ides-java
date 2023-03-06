@@ -6,9 +6,9 @@ public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
 		Livros livros = new Livros();
-		Gato gato = new Gato();
+		Gato gatos = new Gato();
 		
-		System.out.println(gato);
+		System.out.println(gatos);
 		System.out.println(livros);
 		
 		/*int a = 2;
